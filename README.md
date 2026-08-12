@@ -77,6 +77,7 @@ Top / Bottom product analysis
 <img width="1920" height="1080" alt="Trend Analysis 1" src="https://github.com/user-attachments/assets/30d5192d-6d16-4dbd-9ba0-2829c8176270" />
 <img width="1920" height="1080" alt="Top - Bottom Analysis" src="https://github.com/user-attachments/assets/b5b15b3e-a6ba-464f-8a7f-3d03c823e836" />
 <img width="1920" height="1080" alt="Top  Bottom Analysis" src="https://github.com/user-attachments/assets/5034473a-37c6-4ade-a2a0-585c0b044797" />
+
 <img width="1920" height="1080" alt="Customers Analysis" src="https://github.com/user-attachments/assets/2535972e-3e62-4021-aba8-e24dc48059a2" />
 <img width="1920" height="1080" alt="Customers Analysis 1" src="https://github.com/user-attachments/assets/674f3115-f2db-45ff-81b9-5ed897e59e12" />
 
