@@ -32,10 +32,6 @@ A small group of top products drive the majority of total revenue and profit
 Sales show clear seasonal patterns across quarters
 Customer segments differ significantly in average order value and purchase frequency
 
-👤 Author
-
-Amr Ahmed LinkedIn | Upwork
-
 🧩 Data Model
 
 The project follows a Star Schema approach to organize the data and support efficient analysis in Power BI.
@@ -66,12 +62,16 @@ Customer attributes
 Customer segmentation
 Model Design
 
+👤 Author
+Amr Ahmed LinkedIn | Upwork
+
 The fact table is connected to the relevant dimension tables through unique keys, creating a structured analytical model that supports:
 Product-level analysis
 Customer-level analysis
 Time-based analysis
 Revenue and profit analysis
 Top / Bottom product analysis
+
 🖼️ Dashboard Preview
 <img width="1920" height="1080" alt="Trend Analysis" src="https://github.com/user-attachments/assets/17e1f12c-9828-4925-b612-367d73ad85b2" />
 <img width="1920" height="1080" alt="Trend Analysis 1" src="https://github.com/user-attachments/assets/30d5192d-6d16-4dbd-9ba0-2829c8176270" />
