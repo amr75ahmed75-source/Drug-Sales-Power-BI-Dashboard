@@ -47,7 +47,8 @@ The goal is to give sales and business teams a single, interactive view of perfo
 
 ## 👤 Author
 **Amr Ahmed**
-[LinkedIn](#) | [Upwork](#)
+[[LinkedIn](#)](https://www.linkedin.com/in/amr-a-ragab-4796a362/) 
+[Upwork](#) https://www.upwork.com/freelancers/~0133005e86e621c925
 
 ## 🧩 Data Model
 The project follows a **Star Schema** approach to organize the data and support efficient analysis in Power BI.
